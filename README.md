@@ -3,7 +3,7 @@
 ### Hello World! 👋
 
 - :mortar_board: I am a Information Systems student at the Universidade Federal de Minas Gerais - UFMG
-- 🌱 I’m currently learning: Python
+- 🌱 I’m currently learning: C#
 - 💬 Ask me about: tech, games, C/C++
 
 #### Languages:
