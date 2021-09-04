@@ -1,10 +1,10 @@
 # :man_technologist: Lucas Silveira
 
-### Hello World! 👋
+### E ai, tudo bom?
 
-- :mortar_board: I am a Information Systems student at the Universidade Federal de Minas Gerais - UFMG
+- :mortar_board: Estudante de Sistemas de Informação na Universidade Federal de Minas Gerais - UFMG
 - 🌱 I’m currently learning: C#
-- 💬 Ask me about: tech, games, C/C++
+- 💬 Ask me about: tech, games, C/C++, cryptocurrency
 
 #### Languages:
 ![C++](https://img.shields.io/badge/-C++-%2300599C?style=flat&logoColor=white&logo=C%2B%2B)
