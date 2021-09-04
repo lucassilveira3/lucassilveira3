@@ -2,7 +2,7 @@
 
 ### E ai, tudo bom?
 
-- :mortar_board: Estudante de Sistemas de Informação na Universidade Federal de Minas Gerais - UFMG
+- :mortar_board: Sistemas de Informação na Universidade Federal de Minas Gerais - UFMG
 - 🌱 I’m currently learning: C#
 - 💬 Ask me about: tech, games, C/C++, cryptocurrency
 
