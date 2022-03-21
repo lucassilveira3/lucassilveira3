@@ -1,25 +1,27 @@
-# :man_technologist: Lucas Silveira
+# 👨🏻‍💻 Lucas Silveira
 
 ### How you doing?
 
 - :mortar_board: Information Systems at Universidade Federal de Minas Gerais - UFMG
-- 👨🏻‍💻 Working at Banco Inter - Payments Developer Intern
-- 🌱 I’m currently learning: C#
+- 🔭 I’m currently working on Banco Inter - Payments Systems Devel Intern
+- 🌱 I’m currently learning: Python
 - 💬 Ask me about: tech, games, C/C++, cryptocurrency
 
 #### Languages:
-![C++](https://img.shields.io/badge/-C++-%2300599C?style=flat&logoColor=white&logo=C%2B%2B)
-![C](https://img.shields.io/badge/-C-%2300599C?style=flat&logoColor=white&logo=C)
-![Python](https://img.shields.io/badge/-Python-%2314354C?style=flat&logoColor=white&logo=python)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### Tools:
-![VSCode](https://img.shields.io/badge/-VSCode-0078d7?style=flat&logoColor=white&logo=Visual-Studio-Code)
-![GitHub](https://img.shields.io/badge/-Github-000?style=flat&logoColor=white&logo=github)
+![VSCode](https://img.shields.io/badge/-VSCode-0078d7?style=for-the-badge&logoColor=white&logo=Visual-Studio-Code)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 
 ## Contact me
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucassilveira3)](https://www.linkedin.com/in/lucassilveira3)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lucassilveira3)](https://twitter.com/lucassilveira3)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucas.asmcosta@gmail.com)](mailto:lucas.asmcosta@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucassilveira3)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/lucassilveira3)](https://twitter.com/lucassilveira3)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:lucas.asmcosta@gmail.com)](mailto:lucas.asmcosta@gmail.com)
 
 <!--
 **lucassilveira3/lucassilveira3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
