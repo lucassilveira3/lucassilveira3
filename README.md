@@ -3,6 +3,7 @@
 ### How you doing?
 
 - :mortar_board: Information Systems at Universidade Federal de Minas Gerais - UFMG
+- 👨🏻‍💻 Working at Banco Inter - Payments Developer Intern
 - 🌱 I’m currently learning: C#
 - 💬 Ask me about: tech, games, C/C++, cryptocurrency
 
