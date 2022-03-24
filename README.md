@@ -2,7 +2,7 @@
 
 ### How you doing?
 
-- :mortar_board: Information Systems at Universidade Federal de Minas Gerais - UFMG
+- :mortar_board: Information Systems at UFMG - Universidade Federal de Minas Gerais
 - 🔭 I’m currently working on Banco Inter - Payments Systems Devel Intern
 - 🌱 I’m currently learning: Python
 - 💬 Ask me about: tech, games, C/C++, cryptocurrency
